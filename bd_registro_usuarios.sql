@@ -16,4 +16,4 @@ CREATE TABLE tbl_usuarios (
 -- Inserción de datos
 INSERT INTO `tbl_usuarios` (`nombre`, `apellido`, `edad`, `correo`) VALUES
 ('Camila', 'Canales', 31, 'camila.canales.moreno@ciisa.cl'),
-('Juan', 'Perez', 36, 'juan.perez.gonzalez@ciisa.cl'),
+('Juan', 'Perez', 36, 'juan.perez.gonzalez@ciisa.cl');
